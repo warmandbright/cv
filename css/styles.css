@@ -1,0 +1,38 @@
+  body {
+    background-color: #ffffb5;
+  }
+
+  form {
+    color: #5a3921
+  }
+
+  hr {
+    color: #6b8c42;
+    border-style: solid;
+    width: 100%;
+  }
+
+  h1 {
+    color: #7bc67b;
+  }
+
+  h3 {
+    color: #7bc67b;
+  }
+  img {border-radius: 50%}
+
+  ol {
+    color: #5a3921;
+  }
+
+  p {
+    color: #5a3921;
+  }
+
+  table {
+    color: #5a3921
+  }
+
+  ul {
+    color: #5a3921;
+  }
